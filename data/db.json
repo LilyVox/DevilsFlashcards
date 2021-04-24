@@ -1,0 +1,81 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "hehehe HEhe HE",
+      "description": "gzdsfhfgfg45s65g4df65h6x5fgdhg"
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    },
+    {
+      "name": "Here's a new Deck",
+      "description": "Just for me! Testing ",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all URL's",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "front": "basdfhxfgj",
+      "back": "baghd gfdg",
+      "id": 7,
+      "deckId": "1"
+    },
+    {
+      "front": "This is the first one ",
+      "back": "And this is its back",
+      "deckId": 3,
+      "id": 11
+    },
+    {
+      "front": "o7:29 AM\n\nme too\nJimmie Faulkner IIIJimmie Faulkner III7:34 AM\n\nI'm back\n",
+      "back": "\nApril KlockoApril Klocko7:41 AM\n\nme too\n",
+      "deckId": 2,
+      "id": 12
+    },
+    {
+      "front": "this is a card now",
+      "back": "Whoooaaa",
+      "deckId": 3,
+      "id": 13
+    },
+    {
+      "front": "lets keep adding more",
+      "back": "muahahahhahaaaa",
+      "deckId": 3,
+      "id": 14
+    }
+  ]
+}
